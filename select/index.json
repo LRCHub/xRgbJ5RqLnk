@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "TOKYO",
+  "base_artist": "YUI",
+  "createdAt": "2026-03-24T12:12:32.723978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paris, Tokyo",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/01_Paris,_Tokyo_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tokyo Boys",
+      "artist": "LGoony feat. Crack Ignaz",
+      "has_synced": true,
+      "path": "select/02_Tokyo_Boys_LGoony_feat._Crack_Ignaz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tokyo Boys (prod. GEE Futuristic & Yung Nikki3000)",
+      "artist": "LGoony & Crack Ignaz",
+      "has_synced": true,
+      "path": "select/03_Tokyo_Boys_(prod._GEE_Futuristic_&_Yung_Nikki3000)_LGoony_&_Crack_Ignaz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Demon dance tokyo",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/04_Demon_dance_tokyo_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tokyo Ghetto",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_Tokyo_Ghetto_Eve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yurei Tokyo",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/06_Yurei_Tokyo_Ayase.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tokyo Á Go-Go",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/07_Tokyo_Á_Go-Go_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tokyo A Go-Go",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/08_Tokyo_A_Go-Go_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Half the World Away - Live, Tokyo Hotel Room",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Half_the_World_Away_-_Live,_Tokyo_Hotel_Room_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Half the World Away (Live, Tokyo Hotel Room)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_Half_the_World_Away_(Live,_Tokyo_Hotel_Room)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Car Song (live, 1995-07-11: Tokyo)",
+      "artist": "Elastica",
+      "has_synced": false,
+      "path": "select/11_Car_Song_(live,_1995-07-11__Tokyo)_Elastica.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Outside Tokyo",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/12_Outside_Tokyo_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gloria (live, 1995-07-11: Tokyo)",
+      "artist": "Elastica",
+      "has_synced": false,
+      "path": "select/13_Gloria_(live,_1995-07-11__Tokyo)_Elastica.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO_YUI.txt"
+    }
+  ]
+}
